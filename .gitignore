@@ -1,0 +1,5 @@
+# Ignore directories ending in .ignore and their contents
+*.ignore/
+*.ignore/**/*
+ecs-fargate-netcore-testapp/.DS_Store
+task-definition-prototype-v1.json
